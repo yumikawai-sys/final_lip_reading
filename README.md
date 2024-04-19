@@ -19,10 +19,10 @@ setuptools     65.5.0
 Werkzeug       3.0.1
 zope.interface 6.2
 
-## pip install numpy==1.24.1
-## pip install opencv-python==4.6.0.66
-## pip install tensorflow==2.10.1
-## pip install scikit-image
+pip install numpy==1.24.1
+pip install opencv-python==4.6.0.66
+pip install tensorflow==2.10.1
+pip install scikit-image
 
 ## Installation
 1. Clone the repository.
