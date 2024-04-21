@@ -41,6 +41,4 @@ pip install scikit-image
 5. Click 'Get' button to see the transcription history in console
 6. Click 'Transcipt' button to get the prediction of the video
 
-## Please note:
- Face detection, Lip area detection are in progress.
 
